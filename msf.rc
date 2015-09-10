@@ -1,0 +1,9 @@
+version
+set ConsoleLogging TRUE
+set LogLevel 5
+set Prompt [%T -- %L %H] 
+set PromptChar ' > '
+set PromptTimeFormat %F %T
+set SessionLogging TRUE
+set Timestampoutput TRUE
+set VERBOSE TRUE
