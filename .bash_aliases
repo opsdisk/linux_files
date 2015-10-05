@@ -20,4 +20,4 @@ alias p='ping 8.8.8.8 -c 1; ping yahoo.com -c 1'
 alias iptablemon='iptables -nvL | grep -v "0 0"'
 alias openvas='openvasmd;gsad -p 4430'
 alias msfconsole='/usr/bin/msfconsole -q -r /usr/bin/scripts/msf.rc'
-
+alias bandtest='wget http://cachefly.cachefly.net/100mb.test -O /dev/null'
