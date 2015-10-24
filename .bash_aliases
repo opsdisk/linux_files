@@ -1,4 +1,4 @@
-alias c='echo External IP:;curl curlmyip.com'
+alias c='echo External IP:;curl icanhazip.com'
 alias d='cd ~/Desktop'
 alias ll='ls -la'
 alias lt='ls -lart'
