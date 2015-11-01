@@ -1,6 +1,7 @@
 alias c='echo External IP:;curl icanhazip.com'
 alias d='cd ~/Desktop'
 alias ll='ls -la'
+alias lh='ls -lah'
 alias lt='ls -lart'
 alias ltg='ls -lart | grep $1'
 alias nsg='netstat -nap | grep -i $1'
